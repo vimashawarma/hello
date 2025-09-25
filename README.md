@@ -17,7 +17,9 @@
 
 ---------------------------------------
 
-  ![image](https://raw.githubusercontent.com/vimashawarma/hello/refs/heads/files-that-are-irrevalant/edp445-twerk.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vimashawarma/hello/refs/heads/files-that-are-irrevalant/edp445-twerk.gif" alt="twerk gif">
+</div>
 
 ---------------------------------------
 
