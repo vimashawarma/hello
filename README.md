@@ -8,7 +8,7 @@
   <h2 align="center">keke's shit snapchat booster</h3>
 
   <p align="center">
-    eat my balls</b>
+    basic snapchat booster plugin</b>
     <br />
     <br />
     <a href="https://github.com/vimashawarma/hello/issues">bug issues</a>
