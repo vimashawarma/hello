@@ -7,7 +7,7 @@
 version = "1.0.0"
 credits = "keke"
 
-#custom settings or configs whatever its fucking called:
+# custom settings or configs whatever its fucking called:
 
 loop_delay = 1     # dis is how many seconds it waits before starting a new loop
 click_delay = 0.1  # dis is how many seconds it waits before clicking the mouse between each button, for exmple it clicks send To, waits 'x' seconds, then clicks your shortcut, etc
@@ -16,10 +16,8 @@ click_delay = 0.1  # dis is how many seconds it waits before clicking the mouse 
 position_delay = 0.5 # recommend do not touch this. Does not affect the speed of the bot itself.
 
 
-#DISCLAIMER
-
 """
-DISCLAIMER:
+disclaimer:
 
 yo keke here — i made this snap script. use it at your own risk.
 i not responsible if stuff goes sideways or you get locked out.
@@ -235,3 +233,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
