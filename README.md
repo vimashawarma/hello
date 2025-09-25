@@ -5,10 +5,10 @@
     <img src="https://github.com/vimashawarma/hello/blob/files-that-are-irrevalant/images.jpeg?raw=true" alt="Logo" width="120" height="120">
   </a>
   
-  <h2 align="center">keke's shit snapchat booster</h3>
+  <h2 align="center">snoopdawg booster</h3>
 
   <p align="center">
-    basic snapchat booster plugin</b>
+    basic snoopdawg booster plugin</b>
     <br />
     <br />
     <a href="https://github.com/vimashawarma/hello/issues">bug issues</a>
